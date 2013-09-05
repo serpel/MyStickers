@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Stickers</string>
+
+    <!-- Actionbar -->
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+
+    <!-- search dialog -->
+    <string name="app_label">Find Stickers</string>
+    <string name="search_hint">find</string>
+
+    <!-- Tabs Menus -->
+    <string-array name="menu_array">
+        <item>Categories</item>
+        <item>Home</item>
+        <item>Favorites</item>
+    </string-array>
+
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

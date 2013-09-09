@@ -17,20 +17,7 @@
 
 <resources>
 
-    <style name="AppTheme" parent="@android:style/Theme.Holo">
-        <item name="android:windowActionBarOverlay">true</item>
-        <item name="android:windowBackground">@android:color/black</item>
-        <item name="android:actionBarStyle">@style/TranslucentDarkActionBar</item>
-    </style>
-
-    <style name="AppTheme.FullScreen" />
-
-    <style name="TranslucentDarkActionBar" parent="@android:style/Widget.Holo.ActionBar">
-        <item name="android:background">#99000000</item>
-    </style>
-
-    <style name="PhotoGridLayout">
-        <item name="android:drawSelectorOnTop">true</item>
-    </style>
+    <color name="grid_state_pressed">#BB7dbcd3</color>
+    <color name="grid_state_focused">#777dbcd3</color>
 
 </resources>
